@@ -5,7 +5,7 @@ The school board has notified that the file "students_complete.csv" file shows e
 
 ## Resources
 - Data Source: [student_complete.csv](https://github.com/Takomochi/School_District_Analysis/blob/main/Resources/students_complete.csv), [schools_complete.csv](https://github.com/Takomochi/School_District_Analysis/blob/main/Resources/schools_complete.csv)
-- Software: Python 3.7.10, Visual Studio Code
+- Software: Python 3.7.10, Jupyter Notebook
 
 ## Results
 ### Analysis
