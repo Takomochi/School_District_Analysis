@@ -1,8 +1,11 @@
 # School District Analysis with Pandas
 
 ## Project Overview
-The school board that the file "students_complete.csv" file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Maria asked us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We will repeat the school district analysis that we did in PyCitySchools.ipynb. New analysis notebook is located [here](https://github.com/Takomochi/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).
+The school board has notified that the file "students_complete.csv" file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Maria asked us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We will repeat the school district analysis that we did in PyCitySchools.ipynb. New analysis notebook is located [here](https://github.com/Takomochi/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).
 
+## Resources
+- Data Source: [student_complete.csv](https://github.com/Takomochi/School_District_Analysis/blob/main/Resources/students_complete.csv), [schools_complete.csv](https://github.com/Takomochi/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+- Software: Python 3.7.10, Visual Studio Code
 
 ## Results
 ### Analysis
